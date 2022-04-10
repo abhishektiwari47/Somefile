@@ -1,0 +1,79 @@
+Programming Test : Openloop Dart week-2
+Last Submission Date : 09/04/2022
+Level: MEDIUM
+
+
+INSTRUCTIONS :
+
+1. Create a Public GitHub Repository
+
+2. Once you have completed coding, reply back in discord where you received this document, with the "URL of the GitHub Public repository".
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Problem 1 :- Create a class Sum. It will have two integers, A and B and a method addition(). addition() will return the sum of the values of A and B.
+Create an object of Sum and pass the values of A and B and print its sum using the addition() method. 
+
+                  // e.g., Input : A = 4 , B = 9
+                             Output : 13
+
+                  // e.g., Input : A = 5 , B = 8
+                             Output : 13
+
+Problem 2 :- Create a class called Birds. It will have one string attribute, color. There will be a method also which will check if the bird's color is blue or white or black and return the color's value otherwise it will return "May Be Some Other Color". 
+Create an object and pass the value of color given by the user using constructor and print the result returned by the method as output.
+
+                  // e.g., Input : Color = black
+                             Output : black
+
+                  // e.g., Input : Color = green
+                             Output : May Be Some Other Color
+
+Problem 3 :- Create a class Calc. It will have three integers A, B and C and two methods add() and mul(). add() will return the sum of any two values passed to it. mul() will return the multiplication of three values given to it.
+Create two objects, obj1 and obj2. In constructor for obj1 pass only A and B as parameters and print their sum and in constructor for obj2 pass A, B and C as parameters and print multiplication for them.
+
+                  // e.g., Input : X = 4 , Y = 2 , Z = 4
+                             Output : obj1 = 6
+                                           obj2 =  32
+
+                  // e.g., Input : X = 3 , Y = 5 , Z = 2
+                             Output : obj1 = 8
+                                           obj2 = 30
+
+Problem 4 :-Create two classes Call and Mobile. 
+Call will contain a method, calling() which will just print "Calling Button Pressed". Mobile will contain a method, disconnect() which will just print "Call Disconnection Button Pressed". 
+Create an object of Mobile namely dialPad which can use dialPad for calling() method. User will give 1 or 0 as input. For 1 call calling() method for 0 call disconnect() method.
+
+                  // e.g., Input : X = 1
+                             Output : Calling Button Pressed
+
+                  // e.g., Input : X = 0
+                             Output : 
+
+Problem 5 :-Create three classes: French, English, and Speak.
+In Speak there will be a method named talk() and it will just print "Talking in some language". 
+Class English will have a talk() method too but it will print "Talking in english". Class French will have a talk() method too but it will print "Talking in french". 
+User will give 0,1 or 2 for calling talk() method of different classes.
+
+
+                  // e.g., Input : X = 0
+                             Output : Talking in some language
+ 
+                  // e.g., Input : 1
+                             Output : Talking in english                                    
+                                              
+Problem 6 :- Create an abstract class 'Bank' with an abstract method 'detBalance'. $100, $150 and $200 are deposited in banks A, B and C respectively. 'BankA', 'BankB' and 'BankC' are subclasses of class 'Bank', each having a method name 'getBalance'. Creating an object of each of the three classes. And call the getBalace() method for 'BankA', 'BankB' and 'BankC' according to the input by user as 0, 1 or 2.
+ 
+                  // e.g., Input : X = 0
+                             Output : $100
+ 
+                  // e.g., Input : 2
+                             Output : $200                       
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+
+Be Awesome,
+
+TANDEMLOOP
